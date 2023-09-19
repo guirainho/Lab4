@@ -1,3 +1,13 @@
+a) Defina uma função com três parâmetros de ponto flutuante que
+retorne a soma dos valores desses parâmetros.
+b) Implemente um programa que
+• solicite que o usuário digite 3 valores numéricos;
+• chame a função implementada no item (a) passando os 3 valores
+digitados pelo usuário como argumentos;
+• imprima na tela o valor retornado pela função.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 
 float soma(float n1, float n2, float n3){
