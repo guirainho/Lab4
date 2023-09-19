@@ -1,3 +1,13 @@
+a) Desenvolva uma função com o nome primo. Esta função deve ter um
+parâmetro do tipo inteiro e deve retornar um valor booleano para informar
+se o valor do parâmetro é ou não um número primo.
+b) Implemente um programa que peça para o usuário fornecer dois números
+inteiros (N1 e N2) e imprima na tela todos os números primos existentes
+entre estes dois números (inclua também na verificação os valores de N1 e
+N2). Seu programa deverá fazer uso da função definida no item (a).
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 #include <stdbool.h>
 
