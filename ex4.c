@@ -1,3 +1,14 @@
+a) Desenvolva uma função que receba dois números inteiros como parâmetros
+(N e D) e que retorne um valor booleano indicando se D é um divisor de N.
+b) Desenvolva uma função que receba um número inteiro como parâmetro
+(M) e que retorne a quantidade de divisores que este número possui.
+Observação: Esta função deverá utilizar a função anterior.
+c) Desenvolva um programa que solicite um número inteiro e que, fazendo uso
+da função do item anterior, apresente a quantidade de divisores deste
+número.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 #include <stdio.h>
 #include <stdbool.h>
 
